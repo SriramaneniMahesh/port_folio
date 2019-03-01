@@ -7,3 +7,6 @@ It is built using HTML, CSS, and utilizes the Bootstrap framework for the front-
 ## DOWNLOAD
 download my project files here
 LINK------[https://github.com/SriramaneniMahesh/port_folio]
+### To Run
+Download repository and open the `index.html` file
+
